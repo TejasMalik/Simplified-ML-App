@@ -6,11 +6,11 @@ gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 numpy==1.17.0
-pandas @ file:///C:/ci/pandas_1592841747005/work
+pandas
 scikit-image==0.16.2
-scikit-learn @ file:///C:/ci/scikit-learn_1592847564598/work
-scipy @ file:///C:/ci/scipy_1592916958183/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445585180/work
+scikit-learn
+scipy
+SQLAlchemy
 statsmodels==0.11.1
 Werkzeug==0.16.1
 
